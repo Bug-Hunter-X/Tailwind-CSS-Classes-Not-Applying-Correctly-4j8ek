@@ -1,0 +1,2 @@
+# Tailwind CSS Classes Not Applying Correctly
+This repository demonstrates a bug where certain Tailwind CSS classes fail to apply correctly, despite what appears to be valid syntax and configuration.  The issue is resolved by ensuring that the Tailwind CSS directives are properly configured within the project and the CSS is correctly compiled and imported.
